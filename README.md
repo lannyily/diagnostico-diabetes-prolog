@@ -54,7 +54,7 @@ Se **duas ou mais respostas** de saúde forem omitidas, o sistema fará pergunta
 00 - Sair
 ```
 
-## 🔧 Exemplo de Uso
+## Exemplo de Uso
 
 ```
 ?- programa.
